@@ -1,0 +1,29 @@
+.banner {
+    background-image: url(image/Bannière.png);
+    width: 100vw;
+    height: 30vw;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    width: 80vw;
+    margin: 20px auto;
+}
+
+img {
+    width: 100%;
+}
+p { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+} 
+
+h2 { font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+} 
